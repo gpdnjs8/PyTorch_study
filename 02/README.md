@@ -83,7 +83,7 @@
 
 4. 자주 사용하는 기능
 
-   1. 행렬 곱셈과 곱셈의 차이(Matrix Multiplication Vs. Multiplication)
+   1. 행렬 곱셈과 곱셈의 차이(Matrix Multiplication vs Multiplication)
    2. 평균(Mean)
    3. 덧셈(Sum)
    4. 최대(Max)와 아그맥스(ArgMax)
