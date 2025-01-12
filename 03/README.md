@@ -1,5 +1,3 @@
-03. [ML 입문] - 머신 러닝 입문하기
-
 ## 03-01 선형 회귀와 자동 미분**(Linear Regression and Autograd)**
 
 1. 데이터에 대한 이해
